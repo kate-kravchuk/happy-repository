@@ -1,2 +1,2 @@
-# fucking-repository
+# happy-repository
  weather
